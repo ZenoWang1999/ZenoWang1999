@@ -5,4 +5,4 @@
 - 📫 How to reach me: ZenoWang@ssw.com.au
 - 👯 I'm looking to collaborate to improve TinaCMS https://tina.io/
 
-[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username=ZenoWang1999&theme=dark)](https://github.com/ZenoWang1999/github-readme-stats)
+[![Zeno's github stats](https://github-readme-stats-fast.vercel.app/api?username=ZenoWang1999&amp;theme=outrun)](https://github.com/adamcogan/github-readme-stats-fast)
